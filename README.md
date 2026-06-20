@@ -35,10 +35,7 @@
     shiny::runApp("app")
     
 # Instructions to Replicate Data Generation Process
-1. Go to [serpapi.com](https://serpapi.com/) and get a SerpAPI key (The free tier key is enough for our purpose.)
-Here are a few API keys that can be used:
-(i) a8d82d3ae00c72f83dc8d48d92797a2319d15a36b1d34a0a2f6d90d1553d1f5e
-(ii) f7d8c1e03309a64c082032d11af1bf26d393468676fcb702818d7a1a07e9211e
+1. Go to [serpapi.com](https://serpapi.com/) and get a SerpAPI key (The free tier key is enough for our purpose).
 3. Set the working directory as MTH208_TEAM2 folder.
 4. Run the command:
     source("data/data_extraction_code.R")
